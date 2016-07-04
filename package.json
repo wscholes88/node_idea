@@ -1,0 +1,23 @@
+{
+  "name": "node_idea",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wscholes88/node_idea.git"
+  },
+  "keywords": [
+    "test",
+    "node"
+  ],
+  "author": "will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wscholes88/node_idea/issues"
+  },
+  "homepage": "https://github.com/wscholes88/node_idea#readme"
+}
