@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "dev" : "node ./node_modules/nodemon/bin/nodemon.js -w index.js"
+    "dev": "node ./node_modules/nodemon/bin/nodemon.js -w index.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,10 @@
   "homepage": "https://github.com/wscholes88/node_idea#readme",
   "devDependencies": {
     "nodemon": "^1.9.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.1.0"
   }
 }
